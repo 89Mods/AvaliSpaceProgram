@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UrlName="avalispace" Name="avalispace" CreatedTime="-8585716776466775598" AutoLoad="false">
+  <Author />
+  <Info />
+  <Assets>
+    <Asset Name="BackgroundBlack" Path="Assets/SquadCore/KSPedia/Backgrounds/BackgroundBlack.png" Type="Texture2D" Url="SquadCore/KSPedia/Backgrounds/BackgroundBlack" AutoLoad="false" />
+  </Assets>
+  <Dependencies>
+    <Dependency>squadcore</Dependency>
+  </Dependencies>
+</KSPBundleDefinition>
