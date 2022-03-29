@@ -7,7 +7,7 @@ All texture and animation assets are **All Rights Reserved** to me, Luca Horn.
 
 All 3D model assets are derived from the Da'vali model, which is **All Rights Reserved** to Rai Kitamatsu.
 
-All **plugin source code** is distributed under the **MIT License**. This applies to all files within the "PluginSource" part of the repository.
+All **plugin source code** is distributed under the **MIT License**. This applies only to files within the "PluginSource" part of the repository.
 
 MIT License:
 
